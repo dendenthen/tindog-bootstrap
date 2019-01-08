@@ -1,3 +1,3 @@
 TinDog Website
 
-Training exercise using html, css, bootstrap and javascript
+Training exercise using html and css/boostrap
